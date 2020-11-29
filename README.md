@@ -24,7 +24,7 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 <img align="left" alt="GitHub" width="26px" src="https://bit.ly/3oaHLYh" />
 
 <br />
-
+<br />
 
 ### Spotify Playing 🎧
 
