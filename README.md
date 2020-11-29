@@ -12,7 +12,7 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://bit.ly/3lcXkNa" />
+<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" />
 <img align="left" alt="Php" width="26px" src="https://bit.ly/39qTVb5" />
 <img align="left" alt="MarkDown" width="26px" src="https://bit.ly/3o5ETf3" />
 <img align="left" alt="Android Studio" width="26px" src="https://bit.ly/3o9aooq" />
