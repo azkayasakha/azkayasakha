@@ -8,7 +8,7 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators 💪
 - 🥅 2020 Goals: Can publish the first app project to the Play Store 📱
-- ⚡ Fun fact: I like playing horror games 👻
+- ⚡ Fun fact: I like horror games 👻
 
 ### Languages and Tools:
 
