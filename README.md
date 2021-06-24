@@ -5,21 +5,23 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 ## I'm a Student, Developer, and Content Creator!!!
 
 - 🔭 I'm finishing my book: Make Your Own Apps With Android Studio 📖
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I'm currently learning how to make a game 🕹
 - 👯 I’m looking to collaborate with other content creators 💪
-- 🥅 2020 Goals: Can publish the first app project to the Play Store 📱
+- 🥅 2021 Goals: Can make my own game 🎮
 - ⚡ Fun fact: I like horror games 👻
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" />
+<img align="left" alt="C#" width="26px" src="https://bit.ly/3vR1lME" />
+<img align="left" alt="Java" width="26px" src="https://bit.ly/3xORpVf" />
 <img align="left" alt="Php" width="26px" src="https://bit.ly/39qTVb5" />
 <img align="left" alt="MarkDown" width="26px" src="https://bit.ly/3o5ETf3" />
+<img align="left" alt="Unity" width="26px" src="https://bit.ly/3xO16mH" />
 <img align="left" alt="Android Studio" width="26px" src="https://bit.ly/3o9aooq" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/2Jk9wym" />
 <img align="left" alt="Postman" width="26px" src="https://bit.ly/3lmQswG" />
 <img align="left" alt="Xampp" width="26px" src="https://bit.ly/3q7yUZ4" />
-<img align="left" alt="MySQL" width="26px" src="https://bit.ly/3qlkx3A" />
+<img align="left" alt="MySQL" width="26px" src="https://bit.ly/2StNVbO" />
 <img align="left" alt="Git" width="26px" src="https://bit.ly/33rdvAo" />
 <img align="left" alt="GitHub" width="26px" src="https://bit.ly/3oaHLYh" />
 
