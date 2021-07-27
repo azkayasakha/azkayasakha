@@ -27,10 +27,6 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 
 <br />
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://streamradioku.000webhostapp.com/)
-
 ### Connect with me:
 
 [<img align="left" alt="YouTube" src="https://img.shields.io/badge/-Azka%20Yasakha-red?style=flat&logo=youtube&logoColor=white" />][youtube]
