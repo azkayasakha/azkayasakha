@@ -4,10 +4,8 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 
 ## I'm a Student, Developer, and Content Creator!!!
 
-- 🔭 I'm finishing my book: Make Your Own Apps With Android Studio 📖
 - 🌱 I'm currently learning how to make a game 🕹
 - 👯 I’m looking to collaborate with other content creators 💪
-- 🥅 2021 Goals: Can make my own game 🎮
 - ⚡ Fun fact: I like horror games 👻
 
 ### Languages and Tools:
