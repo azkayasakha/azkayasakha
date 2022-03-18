@@ -49,20 +49,6 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Cara menghubungkan hosting ke Visual Studio Code](https://codexcoding.wordpress.com/2020/08/06/cara-menghubungkan-hosting-ke-visual-studio-code/)
-- [Membuat Workspace di Visual Studio Code](https://codexcoding.wordpress.com/2020/08/05/membuat-workspace-di-visual-studio-code/)
-- [Membuat Database dan Merelasikannya](https://codexcoding.wordpress.com/2020/08/04/membuat-database-dan-merelasikannya/)
-- [Cara membuat Intro Slider Android Studio](https://codexcoding.wordpress.com/2020/02/19/cara-membuat-intro-slider-android-studio/)
-- [Mengisi Webhost menggunakan Visual Studio Code](https://codexcoding.wordpress.com/2020/02/17/mengisi-webhost-menggunakan-visual-studio-code/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codexcoding.wordpress.com/)
-
----
-
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   
