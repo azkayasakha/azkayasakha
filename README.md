@@ -1,6 +1,6 @@
 ### Hi there, I'm Azka 👋
 
-I am a programmer from Indonesia. I am currently in vocational high school at Rabbaanii Islamic School majoring in software engineering.
+I am a programmer from Indonesia. I am currently studying at Telkom University majoring in computer engineering.
 
 ## I'm a Student, Developer, and Content Creator!!!
 
@@ -13,7 +13,7 @@ I am a programmer from Indonesia. I am currently in vocational high school at Ra
 <img align="left" alt="C#" width="26px" src="https://bit.ly/3vR1lME" />
 <img align="left" alt="Java" width="26px" src="https://bit.ly/3xORpVf" />
 <img align="left" alt="Php" width="26px" src="https://www.influxdata.com/wp-content/uploads/php_logo.png" />
-<img align="left" alt="MarkDown" width="26px" src="https://bit.ly/3o5ETf3" />
+<img align="left" alt="Kotlin" width="26px" src="https://bit.ly/3AyG130" />
 <img align="left" alt="Unity" width="26px" src="https://bit.ly/3xO16mH" />
 <img align="left" alt="Android Studio" width="26px" src="https://bit.ly/3o9aooq" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/2Jk9wym" />
