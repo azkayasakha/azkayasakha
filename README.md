@@ -67,7 +67,7 @@ I am a programmer from Indonesia. I am currently studying at Telkom University m
 
 </details>
 
-[twitter]: https://twitter.com/azkayasakh
+[twitter]: https://twitter.com/azkayasakha
 [youtube]: https://youtube.com/azkayasakha
 [instagram]: https://instagram.com/azkayasakha
-[linkedin]: https://linkedin.com/in/azka-yasakha
+[linkedin]: https://linkedin.com/in/azkayasakha
