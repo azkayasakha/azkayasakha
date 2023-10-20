@@ -30,19 +30,6 @@ I am a programmer from Indonesia. I am currently studying at Telkom University m
 
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [About me](https://youtu.be/AFUzHybRyt0)
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/azkayasakha)
-
----
-
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   
