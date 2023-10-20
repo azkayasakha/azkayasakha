@@ -11,16 +11,12 @@ I am a programmer from Indonesia. I am currently studying at Telkom University m
 ### Languages and Tools:
 
 <img align="left" alt="Kotlin" width="26px" src="https://bit.ly/3AyG130" />
-<img align="left" alt="C#" width="26px" src="https://bit.ly/3vR1lME" />
 <img align="left" alt="Php" width="26px" src="https://www.influxdata.com/wp-content/uploads/php_logo.png" />
-<img align="left" alt="Unity" width="26px" src="https://bit.ly/3xO16mH" />
 <img align="left" alt="Android Studio" width="26px" src="https://bit.ly/3o9aooq" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/2Jk9wym" />
 <img align="left" alt="Postman" width="26px" src="https://bit.ly/3lmQswG" />
 <img align="left" alt="Xampp" width="26px" src="https://bit.ly/3q7yUZ4" />
 <img align="left" alt="MySQL" width="26px" src="https://bit.ly/2StNVbO" />
-<img align="left" alt="Git" width="26px" src="https://bit.ly/33rdvAo" />
-<img align="left" alt="GitHub" width="26px" src="https://bit.ly/3oaHLYh" />
 
 <br />
 
