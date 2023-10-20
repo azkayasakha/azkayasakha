@@ -11,6 +11,7 @@ I am a programmer from Indonesia. I am currently studying at Telkom University m
 ### Languages and Tools:
 
 <img align="left" alt="Kotlin" width="26px" src="https://bit.ly/3AyG130" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Php" width="26px" src="https://www.influxdata.com/wp-content/uploads/php_logo.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://bit.ly/3o9aooq" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://bit.ly/2Jk9wym" />
